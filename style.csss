@@ -1,0 +1,14 @@
+botton{
+  background-color: pink;
+color: Black;
+font-size:20px;
+padding:20px;
+margin:20px;
+}
+body
+{
+  background-color:#255192;
+  width:100w;
+  height:100vh;
+  place-content: center;
+  display:grid;
